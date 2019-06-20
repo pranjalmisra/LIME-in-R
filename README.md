@@ -21,4 +21,4 @@ ctg_explanation <-  explain(ctg_test , ctg_explain , n_labels = 1, n_features = 
 
 summary(ctg_explanation)
 
- plot_features(ctg_explanation)  ### you get the plot which gives the explanation behind the prediction
+ plot_features(ctg_explanation)  ### you get the plot which gives the explanation behind the prediction.
